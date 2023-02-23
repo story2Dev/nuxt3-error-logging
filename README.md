@@ -41,5 +41,7 @@ npm run preview
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
-
 https://discord.com/api/webhooks/1061570969052909639/8quydIQH6xwhBSH0N-DvYqejWUxdDfgXOjzP1hgLGvev--eCRq8eoaYMUllJtw9fUp7m
+
+
+![image](https://user-images.githubusercontent.com/18229355/220808675-cbf9e50f-def9-4786-aa73-edefaacfbdba.png)
